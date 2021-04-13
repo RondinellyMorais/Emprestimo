@@ -12,7 +12,7 @@
  
   <p align="justify"> Nesse exemplo específico usamaos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo.  </p>
   
-  <p align="justify"> Aqui temos o código do aplicativo e código do notebook com a análise exploratória de dados: </p>
+  <p align="justify"> Aqui temos o código do aplicativo e código do notebook com a análise exploratória de dados e um link do aplicativo: </p>
   
 - [Código | loan_app.py](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) 
  
