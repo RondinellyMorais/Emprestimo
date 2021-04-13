@@ -10,7 +10,9 @@
   uma simulação, poderiamos auxiliar em processos automatizados de antendimento reduzindo custos. Usando modelos de machine learning e uma base de dados 
   podemos criar modelos de previsão que melhor se ajustem a cituações que queremos prever. </p>
  
-  <p align="justify"> Nesse exemplo específico usamaos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo. </p>
+  <p align="justify"> Nesse exemplo específico usamaos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo.  </p>
+  
+ <p align="justify"> [oi](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) </p>
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
