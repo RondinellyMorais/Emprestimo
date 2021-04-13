@@ -13,6 +13,8 @@
   <p align="justify"> Nesse exemplo específico usamaos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo.  </p>
   
  [Código | loan_app.py](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) 
+ 
+ [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-projet/edit/master/Simulador%20de%20emprestimo/Emprestimo.ipynb)
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
