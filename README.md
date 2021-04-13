@@ -14,7 +14,7 @@
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gallery)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/gallery)
 
 ![Wellcome](/img/1.png?raw=True)
 ![Wellcome](/img/2.png?raw=True)
