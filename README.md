@@ -17,10 +17,13 @@
 - [Código | loan_app.py](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) 
  
 - [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-projet/edit/master/Simulador%20de%20emprestimo/Emprestimo.ipynb)
+- [link | streamlit loan_app.py](https://share.streamlit.io/rondinellymorais/emprestimo-streamlit/loan_app.py)
+
   
 [![Documentation Status](https://readthedocs.com/projects/streamlit-streamlit/badge/?version=latest)](https://docs.streamlit.io/en/latest/?badge=latest)
 [![author](https://img.shields.io/badge/author-rondinelly-red.svg)](https://www.linkedin.com/in/rondinellyoliveiradatascience)
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/gallery)
+
 
 ![Wellcome](/img/1.png?raw=True)
 ![Wellcome](/img/2.png?raw=True)
