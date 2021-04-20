@@ -16,7 +16,7 @@
   
 - [Código | loan_app.py](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) 
  
-- [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-projet/edit/master/Simulador%20de%20emprestimo/Emprestimo.ipynb)
+- [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/Emprestimo.ipynb)
 - [link | streamlit loan_app.py](https://share.streamlit.io/rondinellymorais/emprestimo-streamlit/loan_app.py)
 
   
