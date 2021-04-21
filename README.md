@@ -18,7 +18,7 @@
  
 - [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/Emprestimo.ipynb)
 
-- [Código | Prediction heart with neural network.ipynb](https://github.com/RondinellyMorais/data-science-projet/tree/master/Predi%C3%A7%C3%A3o%20da%20chances%20de%20doen%C3%A7a%20card%C3%ADaca%20usando%20rede%20neural)
+- [Código | Prediction heart with neural network.ipynb](https://github.com/RondinellyMorais/data-science-projet/blob/master/Predi%C3%A7%C3%A3o%20da%20chances%20de%20doen%C3%A7a%20card%C3%ADaca%20usando%20rede%20neural/Prediction%20heart%20with%20neural%20network.ipynb)
 
 - [link | streamlit loan_app.py](https://share.streamlit.io/rondinellymorais/emprestimo-streamlit/loan_app.py)
 
