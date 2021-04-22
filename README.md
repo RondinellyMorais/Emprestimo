@@ -12,11 +12,11 @@
  
   <p align="justify"> Nesse exemplo específico usamaos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo.  </p>
   
-  <p align="justify"> Aqui temos o código do aplicativo e código do notebook com a análise exploratória de dados e um link do aplicativo: </p>
+  <p align="justify"> Aqui temos o código do aplicativo e código do notebook com a análise exploratória de dados e um link do aplicativo em produção: </p>
   
 - [Código | loan_app.py](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) 
  
-- [Código | _Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-project/blob/master/C%C3%B3pia_de_Emprestimo.ipynb)
+- [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-project/blob/master/C%C3%B3pia_de_Emprestimo.ipynb)
 
 - [Código | Prediction heart with neural network.ipynb](https://github.com/RondinellyMorais/data-science-projet/blob/master/Predi%C3%A7%C3%A3o%20da%20chances%20de%20doen%C3%A7a%20card%C3%ADaca%20usando%20rede%20neural/Prediction%20heart%20with%20neural%20network.ipynb)
 
