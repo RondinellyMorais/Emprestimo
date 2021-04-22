@@ -6,11 +6,11 @@
 <p align="justify"> Simuladores de empréstimos online são muito utilizados por bancos como indicadores aproximados da viabilidade de aprovação de crédito.
   Sendo que esta ferramenta vem se tornando muito popular entre os usuários de aplicativos de bancos. </p>
  
- <p align="justify"> Se podermos refinar o algoritmo de qualquer aplicativo desses usando várias informações de um cliente que gostária de solicitar 
-  uma simulação, poderiamos auxiliar em processos automatizados de antendimento reduzindo custos. Usando modelos de machine learning e uma base de dados 
-  podemos criar modelos de previsão que melhor se ajustem a cituações que queremos prever. </p>
+ <p align="justify"> Se pudermos refinar o algoritmo de qualquer aplicativo desses usando várias informações de um cliente que gostaria de solicitar 
+  uma simulação, puderiamos auxiliar em processos automatizados de antendimento reduzindo custos. Usando modelos de machine learning e uma base de dados 
+  podemos criar modelos de previsão que melhor se ajustem a situações que queremos prever. </p>
  
-  <p align="justify"> Nesse exemplo específico usamaos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo.  </p>
+  <p align="justify"> Nesse exemplo específico usamos o modelo de LGBMClassifier com hiperparâmetros tunados para criar o modelo usado pelo aplicativo. Podemos ter uma visualização previa do esquema geral do aplicativo.  </p>
   
   <p align="justify"> Aqui temos o código do aplicativo de simulação de empréstimo, código do notebook com a análise exploratória de dados e um link do aplicativo em produção. Além dos links de outros projetos: </p>
   
