@@ -22,6 +22,8 @@
 
 - [Código | Bike_Rental_Prediction/bike_app.py](https://github.com/RondinellyMorais/data-science-project/blob/master/Bike_Rental_Prediction/bike_app.py)
 
+- [Código | Previsão de Feedback Usando NLP/NPL-prediction.ipynb](https://github.com/RondinellyMorais/data-science-project/blob/master/Previs%C3%A3o%20de%20Feedback%20Usando%20NLP/NPL-prediction.ipynb)
+
 - [link | streamlit loan_app.py](https://share.streamlit.io/rondinellymorais/emprestimo-streamlit/loan_app.py)
 
   
