@@ -14,6 +14,8 @@
   
   <p align="justify"> Aqui temos o código do aplicativo de simulação de empréstimo, código do notebook com a análise exploratória de dados e um link do aplicativo em produção. Além dos links de outros projetos: </p>
   
+  - [Código | Análise Exploratória de dados do Airbnb.ipynb](https://github.com/RondinellyMorais/data-science-project/blob/master/An%C3%A1lise%20Explorat%C3%B3ria%20de%20dados%20do%20Airbnb/An%C3%A1lise%20Explorat%C3%B3ria%20de%20dados%20do%20Airbnb.ipynb)
+  
 - [Código | loan_app.py](https://github.com/RondinellyMorais/data-science-projet/blob/master/Simulador%20de%20emprestimo/loan_app.py) 
  
 - [Código | Emprestimo.ipynb](https://github.com/RondinellyMorais/data-science-project/blob/master/C%C3%B3pia_de_Emprestimo.ipynb)
@@ -23,6 +25,7 @@
 - [Código | Bike_Rental_Prediction/bike_app.py](https://github.com/RondinellyMorais/data-science-project/blob/master/Bike_Rental_Prediction/bike_app.py)
 
 - [Código | Previsão de Feedback Usando NLP/NPL-prediction.ipynb](https://github.com/RondinellyMorais/data-science-project/blob/master/Previs%C3%A3o%20de%20Feedback%20Usando%20NLP/NPL-prediction.ipynb)
+
 
 - [link | streamlit loan_app.py](https://share.streamlit.io/rondinellymorais/emprestimo-streamlit/loan_app.py)
 
